@@ -1,0 +1,52 @@
+.basic-layout {
+    background-color:rgb(59, 129, 175);*/
+    color: yellow;
+    font-size: 28px;
+    }
+
+.title {
+    background-color:rgb(17, 73, 110);
+    text-align: center;
+    padding-left: 315px;
+    padding-top: 50px;
+    font-size: 75px;
+    color: rgb(255, 216, 44);
+    /*background-color:rgb(59, 129, 175);*/
+    }
+.goodboy{
+    background-color:rgb(17, 73, 110);
+    padding-top: 50px;
+    padding-left:318px;
+    text-align: center;
+    font-size: 40px;
+    color: rgba(255, 216, 44, 0.707);
+    
+    }
+
+.body{
+    background-color:rgb(59, 129, 175);
+   
+    font-size: 30px;
+
+    }
+    .ul{
+        list-style-type: none;
+    }
+    .page1{
+        background-color:rgb(120, 135, 145);
+        text-align: center;
+        padding-left: 418px;
+        padding-top: 117px;
+        font-size: 45px;
+        color: rgb(30, 48, 63);
+
+    }
+    .page2{
+        background-color:rgb(120, 135, 145);
+        text-align: center;
+        padding-left: 646px;
+        padding-top: 117px;
+        font-size: 45px;
+        color: rgb(30, 48, 63);
+
+    }
